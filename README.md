@@ -1,6 +1,7 @@
 # KECILIN_AI_Developer_ComputerVision_Test_Case--HANIF_ADAM
  
 This Repository created for answer of KECILIN_AI_Developer_ComputerVision_Test_Case
+
 The [Detection Result](https://drive.google.com/drive/folders/1gKJ2X2w0a9zLqJVwNxasE26d9DHz9sik?usp=sharing)
 
 Guide for using this repo write down below :
